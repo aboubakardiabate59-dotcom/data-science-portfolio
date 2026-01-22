@@ -32,12 +32,6 @@ R, Shiny, Analyse de données, Visualisation
 [Voir l’application](https://aboubakar-diabate.shinyapps.io/mon-analyse-ventes/)
 
 
----
-
-###  Classification supervisée – Données biomédicales
- Projet de machine learning sur données complexes  
- Python, Statistiques, Power BI  
- (https://github.com/aboubakar-diabate/biomedical-classification)
 
 ---
 
