@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Aboubakar Diabaté
+#  Bonjour, je suis Aboubakar Diabate
 
  Étudiant en Master Science des Données et Modélisation statistique  
  Formation en Statistiques  
@@ -26,11 +26,11 @@ et de performance opérationnelle.
 
 ##  Projets principaux
 
-###  Analyse prédictive des flux Vélib’ – Paris
- Analyse spatio-temporelle des usages  
- Python, SQL, Visualisation de données  
- (https://github.com/aboubakar-diabate
-/velib-flux-analysis)
+###  Application Shiny – Analyse des ventes
+ Application interactive de visualisation et d’analyse des ventes  
+R, Shiny, Analyse de données, Visualisation  
+[Voir l’application](https://aboubakar-diabate.shinyapps.io/mon-analyse-ventes/)
+
 
 ---
 
